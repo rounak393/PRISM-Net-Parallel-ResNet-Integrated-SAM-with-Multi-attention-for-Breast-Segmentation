@@ -55,5 +55,5 @@ FIGURE 4: BUSBRA GRAD-CAM
 ## ✍️ Authors
 
 * **Rounak Saha** 
-* **Dr.Britika Khati**
-* **Dr.Ram Sarkar**
+* **Britika Khati**
+* **Prof. Ram Sarkar**
