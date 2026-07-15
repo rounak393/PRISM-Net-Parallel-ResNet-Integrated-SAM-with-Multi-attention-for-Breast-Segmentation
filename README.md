@@ -9,7 +9,6 @@ PRISM-Net is a specialized, vision-forward deep learning architecture engineered
 > <img width="960" height="540" alt="Architecures" src="https://github.com/user-attachments/assets/b46b4639-0fb9-4e31-9f24-33cf1abed117" />
 
 
----
 
 ## 🏆 Performance Benchmarks
 
