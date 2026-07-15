@@ -6,10 +6,7 @@ PRISM-Net is a specialized, vision-forward deep learning architecture engineered
 
 ## 🏛️ The Architecture
 
-> **[🖼️ UPLOAD ARCHITECTURE IMAGE HERE]**
 > <img width="960" height="540" alt="Architecures" src="https://github.com/user-attachments/assets/b46b4639-0fb9-4e31-9f24-33cf1abed117" />
-
-> *(Drag and drop your architecture diagram into the GitHub editor right here, then replace the dummy link below with the generated one!)*
 
 ![PRISM-Net Architecture Blueprint](link_to_architecture_image.png)
 
