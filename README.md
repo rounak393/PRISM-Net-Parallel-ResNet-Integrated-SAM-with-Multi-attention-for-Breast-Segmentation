@@ -30,8 +30,8 @@ To build trust in medical AI, we need to know exactly where the model struggles.
 
 
 * ⬜ **Pure White:** True Positives *(Spot-on tissue identification)*
-* 🟥 ** Red:** False Positives *(Background hallucinated as a tumor / Over-segmentation)*
-* 🟦 ** Blue:** False Negatives *(Missed tumor regions / Under-segmentation)*
+* 🟥  Red: False Positives *(Background hallucinated as a tumor / Over-segmentation)*
+* 🟦  Blue: False Negatives *(Missed tumor regions / Under-segmentation)*
 
 ---
 
