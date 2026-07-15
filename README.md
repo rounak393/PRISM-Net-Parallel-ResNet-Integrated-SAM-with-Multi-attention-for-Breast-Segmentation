@@ -30,11 +30,9 @@ To build trust in medical AI, we need to know exactly where the model struggles.
 <img width="950" height="315" alt="BUSERROR" src="https://github.com/user-attachments/assets/6542b6ad-a5ea-48c1-a9d2-eb9bddeb4585" />
 
 
-![Error Analysis Map](link_to_error_analysis_image.png)
-
 * ⬜ **Pure White:** True Positives *(Spot-on tissue identification)*
-* 🟥 **Crimson Red:** False Positives *(Background hallucinated as a tumor / Over-segmentation)*
-* 🟦 **Deep Blue:** False Negatives *(Missed tumor regions / Under-segmentation)*
+* 🟥 ** Red:** False Positives *(Background hallucinated as a tumor / Over-segmentation)*
+* 🟦 ** Blue:** False Negatives *(Missed tumor regions / Under-segmentation)*
 
 ---
 
@@ -42,15 +40,16 @@ To build trust in medical AI, we need to know exactly where the model struggles.
 
 We don't just want a black box. Using Gradient-weighted Class Activation Mapping (Grad-CAM), we peek into the network's "mind" to ensure it is focusing on true pathological features rather than irrelevant image artifacts.
 
-> **[🖼️ UPLOAD GRAD-CAM IMAGE HERE]**  
-> *(Drag and drop your Grad-CAM overlay heatmap right here)*
+><img width="950" height="315" alt="BUSIGRADCAM" src="https://github.com/user-attachments/assets/732b7f34-e8a3-41cd-8e8e-aa457ef4ceca" />
+<img width="950" height="315" alt="BUSGRADCAM" src="https://github.com/user-attachments/assets/8ab2f58a-59c2-40d7-b8fd-5030f5525df5" />
 
-![Grad-CAM Heatmap Visualization](link_to_gradcam_image.png)
+
+
 
 ---
 
 ## ✍️ Authors
 
 * **Rounak Saha** 
-* **[Co-Author Name]**
-* **[Co-Author Name]**
+* **Dr.Britika Khati**
+* **Dr.Ram Sarkar**
