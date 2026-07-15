@@ -31,7 +31,7 @@ FIGURE 2: BUSBRA ERROR ANALYSIS
 <img width="950" height="315" alt="BUSERROR" src="https://github.com/user-attachments/assets/6542b6ad-a5ea-48c1-a9d2-eb9bddeb4585" />
 
 
-* ⬜ ** White:** True Positives *(Spot-on tissue identification)*
+* ⬜  White: True Positives *(Spot-on tissue identification)*
 * 🟥  Red: False Positives *(Background hallucinated as a tumor / Over-segmentation)*
 * 🟦  Blue: False Negatives *(Missed tumor regions / Under-segmentation)*
 
