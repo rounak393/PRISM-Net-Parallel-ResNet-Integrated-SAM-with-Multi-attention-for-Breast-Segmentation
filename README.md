@@ -24,7 +24,7 @@ Precision is everything in medical imaging. Here is how PRISM-Net holds up again
 
 To build trust in medical AI, we need to know exactly where the model struggles. Our error mapping visualizes the network's decision boundaries directly against the ground truth.
 
-> **[🖼️ UPLOAD ERROR ANALYSIS IMAGE HERE]**  
+
 <img width="971" height="315" alt="BUSIERROR" src="https://github.com/user-attachments/assets/0b58364e-b681-4655-b6f2-28e68afdbe54" />
 BUSI ERROR ANALYSIS
 <img width="950" height="315" alt="BUSERROR" src="https://github.com/user-attachments/assets/6542b6ad-a5ea-48c1-a9d2-eb9bddeb4585" />
