@@ -26,10 +26,12 @@ To build trust in medical AI, we need to know exactly where the model struggles.
 
 FIGURE 1:BUSI ERROR ANALYSIS
 <img width="971" height="315" alt="BUSIERROR" src="https://github.com/user-attachments/assets/0b58364e-b681-4655-b6f2-28e68afdbe54" />
+
+FIGURE2:BUSBRA ERROR ANALYSIS
 <img width="950" height="315" alt="BUSERROR" src="https://github.com/user-attachments/assets/6542b6ad-a5ea-48c1-a9d2-eb9bddeb4585" />
 
 
-* ⬜ **Pure White:** True Positives *(Spot-on tissue identification)*
+* ⬜ ** White:** True Positives *(Spot-on tissue identification)*
 * 🟥  Red: False Positives *(Background hallucinated as a tumor / Over-segmentation)*
 * 🟦  Blue: False Negatives *(Missed tumor regions / Under-segmentation)*
 
@@ -39,7 +41,10 @@ FIGURE 1:BUSI ERROR ANALYSIS
 
 We don't just want a black box. Using Gradient-weighted Class Activation Mapping (Grad-CAM), we peek into the network's "mind" to ensure it is focusing on true pathological features rather than irrelevant image artifacts.
 
+FIGURE 3:BUSI GRAD-CAM
 ><img width="950" height="315" alt="BUSIGRADCAM" src="https://github.com/user-attachments/assets/732b7f34-e8a3-41cd-8e8e-aa457ef4ceca" />
+
+FIGURE 4:BUSBRA GRAD-CAM
 <img width="950" height="315" alt="BUSGRADCAM" src="https://github.com/user-attachments/assets/8ab2f58a-59c2-40d7-b8fd-5030f5525df5" />
 
 
